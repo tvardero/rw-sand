@@ -17,6 +17,10 @@
 - TFR (Forest rails) - Rail connections outside of mesa mountains
 - TFC (Fir Cabin) - Small cabin settlement between fir trees
 - TDW (Dust Wall) - Wall that keeps desert dust from going further south
+  
+![MapClean](MapClean.png)
+![MapWithConnections](MapWithConnections.png)
+![MapSimple](MapSimple.png)
 
 ## Enemies
 
