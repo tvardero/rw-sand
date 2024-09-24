@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0.6521739
+RumbleIntensity: 0.2065217
+WaveSpeed: 0.5002538
+WaveLength: 0.9998731
+WaveAmplitude: 4.167079E-07
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 2
+Effects: DayNight-1-38-94, 
+PlacedObjects: DangleFruit><476.8572><1411.39><252~-86~2~3, DangleFruit><677.1389><1419.416><155~-36~2~3, DangleFruit><719.2385><716.4497><127~-60~2~3, SuperStructureFuses><750.412><828.8828><41~77, DangleFruit><301.0803><706.8942><0~0~2~3, 
+AmbientSounds: SPOT><SO_SFX-Data5.ogg><720.6343><78.60181><0.4891304><1.469565><772.6343><871.6018><63.64471><-4.355347><0><0.08913057, SPOT><AM_ENV-WinterHum.ogg><35.61554><400.0868><0.4565217><1><121.6155><1412.087><-35.35534><-35.35534><0><0.1, OMNI><AM_ENV-CityTone.ogg><529.55><68.05634><0.6630435><0.9021739, OMNI><MSC-StructureStrain.ogg><527.8586><145.3585><0.2391304><1, 

@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: None
+Palette: 2
+Effects: DayNight-1-222-108, 
+PlacedObjects: ShelterBhvrManager><902.9027><275.8253><33~17~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrTriggerZone><292.3421><229.1227><283~160, ShelterBhvrTriggerZone><230.0524><591.7809><709~118, ShelterBhvrSpawnPosition><438.8515><630.0777><, ShelterBhvrSpawnPosition><695.5879><587.0704><, ShelterBhvrSpawnPosition><541.3279><370.5659><, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><751.8216><309.8404><0.3804348><0.9021739, OMNI><MSC-StructureStrain.ogg><751.9849><231.8006><0.1521739><1, 
