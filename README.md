@@ -56,3 +56,8 @@ Stealthy static ceiling bug that tries to reach to its pray with it's long tongu
 ### Wasps, bees, etc
 
 (Inspired by Deeptora species family from DRG)
+
+## References
+
+<https://music.youtube.com/watch?v=Z-Yme-FC658> - sound for FR region (#1).
+<https://music.youtube.com/watch?v=XDq_e-kgGM4> - sound for FR region (#2).
